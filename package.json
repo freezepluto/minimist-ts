@@ -1,0 +1,32 @@
+{
+  "name": "minimist-ts",
+  "version": "1.0.0",
+  "description": "minimist typescript versions",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freezepluto/minimist-ts.git"
+  },
+  "keywords": [
+    "parse",
+    "process",
+    "argv",
+    "params"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freezepluto/minimist-ts/issues"
+  },
+  "homepage": "https://github.com/freezepluto/minimist-ts#readme",
+  "dependencies": {
+    "ts-node": "^10.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.18.1"
+  }
+}
